@@ -5,6 +5,17 @@
 
 ### MultiUrl is for opening multiple urls in new tabs
 
+- MultiUrl is a comprehensive application that offers a variety of tools for handling multiple URLs with ease at the click of one button.
+
+- Unlike other tools appropite delays have been provided so that you dont get blocked by the website for sutomation
+
+- There is a non-linear way to icrease the delay based on number of sites currently active
+
+**Descriptive:**
+
+* MultiUrl: a comprehensive collection of utilities for organizing, manipulating, and leveraging large sets of URLs.
+
+
 [![author][author-image]][author-url]
 [![license][license-image]][license-url]
 [![release][release-image]][release-url]
